@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
