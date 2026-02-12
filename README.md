@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0875-koko-eating-bananas](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0875-koko-eating-bananas) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0031-next-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
