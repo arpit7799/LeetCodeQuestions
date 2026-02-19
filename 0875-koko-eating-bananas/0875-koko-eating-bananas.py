@@ -1,17 +1,25 @@
+from typing import List
+
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        left, right = 1, max(piles)
         
-        while left < right:
-            mid = (left + right) // 2
-            
+        def canFinish(speed):
             hours = 0
-            for pile in piles:
-                hours += (pile + mid - 1) // mid  
+            for bananas in piles:
+                hours += (bananas + speed - 1) // speed 
+            return hours <= h
+        
+        low = 1
+        high = max(piles)
+        answer = high
+        
+        while low <= high:
+            mid = (low + high) // 2
             
-            if hours > h:
-                left = mid + 1
+            if canFinish(mid):
+                answer = mid
+                high = mid - 1
             else:
-                right = mid
-                
-        return left
+                low = mid + 1 
+        
+        return answer
