@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2643-row-with-maximum-ones) |
 | [3379-transformed-array](https://github.com/arpit7799/LeetCodeQuestions/tree/master/3379-transformed-array) |
 ## Bit Manipulation
 |  |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
