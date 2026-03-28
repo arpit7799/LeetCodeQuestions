@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0031-next-permutation) |
+| [0074-search-a-2d-matrix](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0169-majority-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -102,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0074-search-a-2d-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
