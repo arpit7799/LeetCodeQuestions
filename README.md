@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0031-next-permutation) |
+| [0876-middle-of-the-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
