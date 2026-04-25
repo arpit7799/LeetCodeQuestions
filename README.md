@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0876-middle-of-the-linked-list) |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
