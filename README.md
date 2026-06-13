@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0190-reverse-bits) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arpit7799/LeetCodeQuestions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0014-longest-common-prefix) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arpit7799/LeetCodeQuestions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arpit7799/LeetCodeQuestions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
