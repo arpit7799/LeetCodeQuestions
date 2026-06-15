@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0169-majority-element) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0190-reverse-bits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arpit7799/LeetCodeQuestions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arpit7799/LeetCodeQuestions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
