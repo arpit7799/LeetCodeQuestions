@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arpit7799/LeetCodeQuestions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
