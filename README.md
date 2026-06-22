@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0216-combination-sum-iii) |
 | [0875-koko-eating-bananas](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arpit7799/LeetCodeQuestions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
