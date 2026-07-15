@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/arpit7799/LeetCodeQuestions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
