@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0216-combination-sum-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
