@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0260-single-number-iii) |
+| [0303-range-sum-query-immutable](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0875-koko-eating-bananas](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 ## Monotonic Stack
 |  |
 | ------- |
