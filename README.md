@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0260-single-number-iii) |
 | [0875-koko-eating-bananas](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
