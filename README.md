@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0039-combination-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0169-majority-element) |
