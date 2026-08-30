@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0875-koko-eating-bananas) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/arpit7799/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
