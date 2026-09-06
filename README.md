@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
+| [0503-next-greater-element-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 ## Greedy
 |  |
 | ------- |
