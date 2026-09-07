@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arpit7799/LeetCodeQuestions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/arpit7799/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 ## Monotonic Stack
 |  |
