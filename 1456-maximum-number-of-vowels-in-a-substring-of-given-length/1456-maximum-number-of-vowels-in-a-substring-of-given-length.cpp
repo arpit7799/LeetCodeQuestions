@@ -19,7 +19,7 @@ public:
             if(vowels.count(s[i-k]))
                 count--;
 
-            if(vowels.count(s[i]))
+            if(vowels.count(s[i])) 
                 count++;
 
             ans = max(ans, count);
